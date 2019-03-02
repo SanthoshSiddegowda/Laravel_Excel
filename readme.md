@@ -7,10 +7,10 @@
 
   1. Clone the project
 
-  2. # Run the command in terminal
+  2. Run the command in terminal
         composer update
 
-  3. # Run serve command
+  3. Run serve command
         php artisan serve
 
 ## App information
